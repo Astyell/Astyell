@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hello there !
 
-<!--
-**Astyell/Astyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi I'm Astyell
+
+
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=astyell&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astyell&layout=compact&langs_count=8&theme=radical" />
+
 
 Here are some ideas to get you started:
 
