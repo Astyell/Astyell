@@ -1,7 +1,6 @@
 # Hello there !
 
 - Hi I'm Astyell !
-- Student in University's IT Department (Le Havre)
 - Programming in Java, PHP, HTML, CSS and Javascript
 - Currently working on a discord bot with node.js
 - 🦆 I like Duck 🦆
